@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brut4luk3
 - 👀 I'm interested in making complex AI with various purposes!
-- 🌱 I’m currently learning the basics of Python, but I'll soon be learning to use the Django Framework and Data treatment.
+- 🌱 I’m getting neck deep into Django and Pandas based projects.
 - 💞️ I’m looking to collaborate on AI based projects.
 - 📫 Reach me out on Linkedin: https://www.linkedin.com/in/lucas-g-reinert-605b471a0/
